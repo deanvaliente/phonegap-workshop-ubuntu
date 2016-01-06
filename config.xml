@@ -17,6 +17,6 @@
         Christophe Coenraets
     </author>
 
-    <gap:plugin name="org.apache.cordova.contacts" />
+    <plugin name="cordova-plugin-contacts" spec="1.1.0" source="pgb" />
 
 </widget>
