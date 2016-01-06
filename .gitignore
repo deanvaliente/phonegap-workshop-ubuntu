@@ -1,0 +1,15 @@
+# Eclipse
+/.classpath
+/.project
+/.settings/*
+
+# IntelliJ IDEA
+*.iml
+.idea/*
+webclient.iml
+
+# Project-specific
+/.springBeans
+/target/*
+
+*.log
